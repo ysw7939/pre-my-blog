@@ -1,42 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://ysw7939.github.io/</loc>
-  <lastmod>2022-03-31T07:33:43+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://ysw7939.github.io/</loc>
+<lastmod>2022-03-31T07:33:43+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://ysw7939.github.io/categories/</loc>
-  <lastmod>2022-03-31T07:33:43+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://ysw7939.github.io/categories/</loc>
+<lastmod>2022-03-31T07:33:43+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ysw7939.github.io/tags/</loc>
-  <lastmod>2022-03-31T07:33:43+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://ysw7939.github.io/tags/</loc>
+<lastmod>2022-03-31T07:33:43+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ysw7939.github.io/archives/</loc>
-  <lastmod>2022-03-31T07:33:43+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://ysw7939.github.io/archives/</loc>
+<lastmod>2022-03-31T07:33:43+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ysw7939.github.io/about/</loc>
-  <lastmod>2022-03-31T07:33:43+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://ysw7939.github.io/about/</loc>
+<lastmod>2022-03-31T07:33:43+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ysw7939.github.io/posts/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/</loc>
-  <lastmod>2022-03-31T07:33:43+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://ysw7939.github.io/posts/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/</loc>
+<lastmod>2022-03-31T07:33:43+00:00</lastmod>
+<priority>0.80</priority>
 </url>
-
-
 </urlset>
