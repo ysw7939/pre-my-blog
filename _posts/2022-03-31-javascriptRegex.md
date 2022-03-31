@@ -1,11 +1,9 @@
 ---
+layout: post
 title:  "[자바스크립트] 정규표현식"
 author: Yang
-date: 2022-03-26 10:55:00 +0800
-categories: "Javascript"
-tag: [프로그래머스, "Javascript", 코딩테스트, 정규표현식,]
-toc: true
-comments: true
+categories: [Javascript]
+tag: [프로그래머스, 코딩테스트, 정규표현식, 신규 추천 아이디]
 ---
 
 # [자바스크립트] 정규표현식
