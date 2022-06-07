@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "문자열(String)"
+title:  "[자바]문자열(String)"
 author: Yang
 categories: [JAVA]
 tag: [자료형, 문자열, equals, 문자열 포메팅, StringBuffer, stringBuilder]
