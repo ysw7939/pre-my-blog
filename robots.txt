@@ -1,0 +1,5 @@
+ User-agent: *
+
+ Allow: /
+ 
+ Sitemap: https://ysw7939.github.io/sitemap.xml
